@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1033911389760",
+    "firebase_url": "https://dharmadaiva-71ffb.firebaseio.com",
+    "project_id": "dharmadaiva-71ffb",
+    "storage_bucket": "dharmadaiva-71ffb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033911389760:android:00f0dc86a515756b",
+        "android_client_info": {
+          "package_name": "com.palthady.dharma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033911389760-ur83hrq5gj6np0qdg25mncserjdugrvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.palthady.dharma",
+            "certificate_hash": "3b0c1c2ebe59ba8e6d7b825a689c0fef0b781059"
+          }
+        },
+        {
+          "client_id": "1033911389760-r3fasonogf4orbimkil63eaqutt8ih1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVH0tlnsrWDiuvnNszJm2I1esbVKYk6iE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033911389760-r3fasonogf4orbimkil63eaqutt8ih1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

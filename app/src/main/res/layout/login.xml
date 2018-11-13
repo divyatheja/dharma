@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/ic_home"
+>
+
+
+
+ <TableLayout
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="bottom"
+     android:paddingBottom="0.95dp"
+     android:layout_weight="1">
+
+
+  <TableRow
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:textAppearance="?android:attr/textAppearanceLarge"
+       android:text="Login"
+       android:id="@+id/textView"
+       android:layout_gravity="bottom"
+       android:layout_weight="1"
+       android:paddingLeft="150dp"
+       android:textColor="#f8efef"
+       android:textSize="40dp"
+       android:textStyle="normal|bold"
+       android:textAlignment="center" />
+
+  </TableRow>
+
+
+<TableRow
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+ <EditText
+     android:layout_width="match_parent"
+     android:layout_height="fill_parent"
+     android:inputType="phone"
+     android:ems="10"
+     android:id="@+id/editText"
+     android:layout_gravity="bottom"
+     android:layout_weight="1"
+     android:maxLength="10"
+     android:phoneNumber="true"
+     android:hint="Phone "
+     android:textStyle="bold"
+     android:textSize="35dp"
+     android:textColor="#f8eeee" />
+
+</TableRow>
+
+  <TableRow
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+ <Button
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:text="Submit"
+     android:id="@+id/button"
+     android:layout_gravity="bottom"
+     android:layout_weight="1"
+     android:textColor="#dcfbce"
+     android:textStyle="bold|italic"
+     android:textSize="30dp"></Button>
+
+ </TableRow>
+
+
+ </TableLayout>
+</LinearLayout>

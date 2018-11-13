@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Darmadiva Prathistana</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_new_expense">Add Collection</string>
+    <string name="amount">Amount</string>
+    <string name="add_expense">Add Colleection</string>
+    <string name="todays_expenses">Today\'s Collection</string>
+    <string name="current_week_expenses">Current Week\'s Collection</string>
+    <string name="total_expense">Total Collectoin - </string>
+    <string name="rupee_sym">₹</string>
+    <string name="expense_add_successfully">Collected Successfully..</string>
+    <string name="amount_empty_error">Amount can not be empty!!</string>
+    <string name="current_months_expenses">Current Month\'s Collection</string>
+    <string name="add_new_category">New Name</string>
+    <string name="category">Name</string>
+    <string name="add_category">Add Name</string>
+    <string name="action_add_category">Add Name</string>
+    <string name="category_empty_error">Name can not be empty!!</string>
+    <string name="add_category_success">Name added successfully..</string>
+
+    <array name="drawer_items">
+        <item>Home</item>
+        <item>This Week</item>
+        <item>This Month</item>
+    </array>
+</resources>
